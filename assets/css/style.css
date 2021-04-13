@@ -1,0 +1,20 @@
+.contenedor {
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+
+
+/*
+.hijo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}*/
+
+.fondo-dinamico {
+    background-size: cover;
+    background-position: center;
+    background-image: url('../image/fondo-1.jpg');
+}
